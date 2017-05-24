@@ -1,0 +1,9 @@
+Daypublic class calculateAge{
+	public static void main(String[] args)
+{
+int day,month,year;
+System.out.print("Enter something:");
+String input = System.console().readLine();
+System.out.println(input);
+}//End of main
+}//End of class
